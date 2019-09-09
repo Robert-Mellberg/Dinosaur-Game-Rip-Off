@@ -14,15 +14,15 @@ Delay when transitioning between the default state and duck- or jump animation. 
 
 The second problem was that the voice recognition is too slow to pick up any commands. Often the voice recognition didn't recognize the command before crashing into an object, making it useless. The only thing you can efficiently use it for in this game currently is to change the color of your character. To solve this problem you have to write your own voice recognition, which should not be too hard since it only needs to be able to differentiate "jump" from "duck".
 
-Another problem is that the game is platform dependent, it can only run on windows. The problem lies within that each platform has their own voice recognition. The [speech recognition for anroid](https://github.com/gsssrao/UnityAndroidSpeechRecognition) can not run in the background which was a problem for this game. The advantages of Unity being platform independent also diminished, the game could just as well have been made in visual studio.
+Another problem is that the game is platform dependent, it can only run on windows. The problem lies within that each platform has their own voice recognition. The [speech recognition for android](https://github.com/gsssrao/UnityAndroidSpeechRecognition) can not run in the background which was a problem for this game. The advantages of Unity being platform independent also diminished, the game could just as well have been made in visual studio.
 
-**Note** that the scripts do not have any documentations
+**Note** that the scripts do not have any documentations.
 
 ## How to install the game
 
 ## How to install the Unity project
 
-**Note** that the game can only run on windows
+**Note** that the game can only run on windows.
 
 1. Download the [Unity package](https://github.com/Robert-Mellberg/Dinosaur-Game-Rip-Off/blob/master/DinosaurGameRip-Off.unitypackage)
 2. Create a new project in Unity
