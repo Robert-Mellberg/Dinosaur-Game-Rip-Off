@@ -20,9 +20,14 @@ Another problem is that the game is platform dependent, it can only run on windo
 
 ## How to install the game
 
-## How to install the Unity project
-
 **Note** that the game can only run on windows.
+
+1. Go to the latest [release](https://github.com/Robert-Mellberg/Dinosaur-Game-Rip-Off/releases/tag/v1.0)
+2. Download the compressed folder HQ-Dinosaur.zip under "Assets"
+3. Right click the folder and choose "Extract All"
+4. Start the game by launching HQ-Dinosaur.exe
+
+## How to install the Unity project
 
 1. Download the [Unity package](https://github.com/Robert-Mellberg/Dinosaur-Game-Rip-Off/blob/master/DinosaurGameRip-Off.unitypackage)
 2. Create a new project in Unity
