@@ -22,7 +22,7 @@ Another problem is that the game is platform dependent, it can only run on windo
 
 **Note** that the game can only run on windows.
 
-1. Go to the latest [release](https://github.com/Robert-Mellberg/Dinosaur-Game-Rip-Off/releases/tag/v1.0)
+1. Go to the latest [release](https://github.com/Robert-Mellberg/Dinosaur-Game-Rip-Off/releases/tag/v1.1)
 2. Download the compressed folder HQ-Dinosaur.zip under "Assets"
 3. Right click the folder and choose "Extract All"
 4. Start the game by launching HQ-Dinosaur.exe
