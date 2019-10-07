@@ -6,6 +6,8 @@ The game is a windows game loosely inspired by the popular google chrome dinosau
 
 The game is very simple, all you have to do is jump over or duck under objects. You can jump and duck with either the up-arrow or the down-arrow respectively or use the voice recognition and just say "jump" or "duck". Furthermore, if you do not like the color of your character, just yell out another color to change it's appearance.
 
+![](Media/DinoGif.gif)
+
 ## About the project
 
 The purpose of this project was to learn more about Unity's built in animations and voice recognition. During the developement i came across a few problems:
